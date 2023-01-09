@@ -1,4 +1,4 @@
-# Sign Language Application
+# Sign Language Interpreter
 Indian Sign Language Interpreter using CNN and Google Speech API.
 
 Project Details:
